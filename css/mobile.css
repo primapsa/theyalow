@@ -1,0 +1,84 @@
+@media (max-width: 640px) {
+    .wrapper,.page{
+        width: 640px;
+    }
+    .header {
+        padding: 0;
+    }
+    .logo-title{
+        font-size: 19px;
+    }
+    .logo-img {
+        width: 40px;
+        height: 40px;
+    }
+    .slider-right,
+     .slider-left,
+    .slider-title,
+     .social-title,
+     .social-date,
+     .social-slider,
+     .right,
+     .folowers,
+     .plus:nth-child(2)
+   {
+        display: none;    
+    }
+    .menu-link {
+        box-shadow: 0 0 0;
+    }
+    .logo-title {
+        margin: 9px;
+    }
+
+    .slider-video {
+        padding: 0;
+    }
+
+    .slider-video video {
+        width: 640px;
+    }
+    .slider-video video[poster] {
+        width: 640px !important;
+        src: "assets/video-mobile.png";
+    }
+
+    .advantage {
+        margin-top: 5px;
+    }
+
+    .advantage-row_text{
+        font-size: 23px;
+    }
+  
+    .advantage-row:nth-child(1):before,
+    .advantage-row:nth-child(3):before {
+        content: "";
+        border: 0;        
+        
+    }
+    .social-title {
+        margin: 0;
+        
+    }
+
+    
+    .social-content_desc {
+        width: 300px;
+    }
+    
+    .social-content_follow {
+        margin-left: 0;
+        width: 100%;
+        background-color: #f5c507;
+    }
+
+    .promotion-title{
+        padding-left: 10px;
+    }
+
+    .promotion-title_text{
+        font-size: 39px;
+    }
+    
+  }
