@@ -366,6 +366,10 @@
     background-position: 83px 59px;
 }
 
+.chat{
+    display: none;
+}
+
 .plus {
     position: relative;    
     width: 15px;
