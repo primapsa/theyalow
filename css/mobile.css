@@ -307,3 +307,8 @@
         background-position: 65px 6px;
     }
   }
+  .wrapper:before,
+  .wrapper:after,
+  .delimeter:before {
+    border-top: none;
+  }
