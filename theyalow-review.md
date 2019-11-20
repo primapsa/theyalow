@@ -19,13 +19,13 @@ JPG:
 
 **[theyalow JPG Mobile](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/markups/level%201/theyalow/THEYALOW%20mobile.jpg)**
 
-- [ ] The reference point here is a successful per-pixel comparison via Pixel Perfect extension.
+- [x] The reference point here is a successful per-pixel comparison via Pixel Perfect extension.
 
 *[PerfectPixel extension for chrome](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=en)*
 
 *[Page Ruler extension for chrome](https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal?hl=en)*
 
-- [ ] Browser Support: Google Chrome, Mozilla Firefox, Microsoft Edge.
+- [x] Browser Support: Google Chrome, Mozilla Firefox, Microsoft Edge.
 
 
 ## Procedure
@@ -53,45 +53,45 @@ You must use pure HTML and CSS in your solution. Fonts and images must be hosted
 **Desktop**
 
 1. Header
-- [ ] Interactive nav.
-- [ ] Logo
-- [ ] Think of where `h1` should be used.
+- [x] Interactive nav.
+- [x] Logo
+- [ ] Think of where `h1` should be used. ( h1 should describe the overall page content and from my point of view it is text on the first slide, because header(navigation bar) is same at all possible pages )
 
 2. Main
-- [ ] Video element placed with image placeholder.
-- [ ] Slider buttons could be inactive, but should exist.
+- [x] Video element placed with image placeholder. (but controls should be hidden)
+- [x] Slider buttons could be inactive, but should exist.
 - (Next)
-- [ ] 3 columns the same width.
-- [ ] svg icons.
+- [x] 3 columns the same width.
+- [x] svg icons.
 - (Next)
-- [ ] Video element placed with image placeholder.
-- [ ] All '+' should be interactive.
-- [ ] Customize range input slider, could be inactive.
+- [x] Video element placed with image placeholder. (but controls should be the same as at mockups)
+- [x] All '+' should be interactive.
+- [x] Customize range input slider, could be inactive.
 
 3. Footer
-- [ ] Logo
+- [x] Logo
 
 **Mobile**
 
 1. Header
-- [ ] Interactive nav.
-- [ ] Logo
+- [x] Interactive nav.
+- [x] Logo
 - [ ] Think of where `h1` should be used.
 
 2. Main
-- [ ] Video element placed with image placeholder.
-- [ ] Swiper instead of slider (for our case, just hide the slider).
+- [x] Video element placed with image placeholder.
+- [x] Swiper instead of slider (for our case, just hide the slider).
 - (Next)
-- [ ] 3 columns the same width.
-- [ ] svg icons.
+- [x] 3 columns the same width.
+- [x] svg icons.
 - (Next)
-- [ ] Video element placed with image placeholder.
+- [x] Video element placed with image placeholder.
 - [ ] All '+' should be interactive.
-- [ ] Twitter messages should have the same design with 2 lines - message and author. 
-- [ ] Form -> input + submit
+- [x] Twitter messages should have the same design with 2 lines - message and author. 
+- [x] Form -> input + submit
 
 3. Footer
-- [ ] Logo
+- [x] Logo
 
 
 ## Useful links
